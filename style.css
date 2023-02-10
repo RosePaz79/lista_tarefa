@@ -1,0 +1,25 @@
+body {
+    background-color: cadetblue;
+}
+
+h1 { 
+    border-bottom-style: inset;
+    border-color: darkblue;
+    font-style: italic;
+    text-align: center;
+ }
+.tarefa-selecionada { 
+    color: red; 
+    font-style: italic; 
+}
+.tarefa-normal {
+     color: black; 
+    }
+label {
+    font-size: 28pt;
+    color: darkgreen;
+    font-family: Georgia, 'Times New Roman', Times, serif
+}
+p {
+    text-align: center;
+}
